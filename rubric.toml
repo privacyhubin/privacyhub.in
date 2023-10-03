@@ -1,0 +1,34 @@
+# Our rubric will evaluate privacy policies based on the following criteria:
+
+# Handling
+[rubric.handling]
+# Personally-targeted or behavioural marketing: 4/10
+"Personally-targeted or behavioural marketing" = 4
+# Permanent deletion of personal data: 5/5
+"Permanent deletion of personal data" = 5
+# Third-party access to private personal data: 0/10
+"Third-party access to private personal data" = 0
+# Law enforcement access to personal data: 3/5
+"Law enforcement access to personal data" = 3
+
+# Transparency
+[rubric.transparency]
+# General security practices outlined: 2/3
+"General security practices outlined" = 2
+# Policy's history availability: 5/5
+"Policy's history availability" = 5
+# Notification requirement in case of a data breach: 0/7
+"Notification requirement in case of a data breach" = 0
+# Notification to users when policy is meaningfully changed: 0/5
+"Notification to users when policy is meaningfully changed" = 0
+
+# Collection
+[rubric.collection]
+# Collection of personal data from third parties: 0/10
+"Collection of personal data from third parties" = 0
+# Clarity on why personal data is collected: 7/10
+"Clarity on why personal data is collected" = 7
+# Control over non-critical personal data collection or use: 3/10
+"Control over non-critical personal data collection or use" = 3
+# Listing of personal data collected: 7/10
+"Listing of personal data collected" = 7
